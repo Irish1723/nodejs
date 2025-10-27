@@ -1,4 +1,5 @@
 import React from "react";
+import { Link,NavLink} from "react-router-dom";
 
 export default function Home() {
     return (
@@ -33,6 +34,7 @@ export default function Home() {
                 <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
                     <img className="w-96" src="https://i.ibb.co/5BCcDYB/Remote2.png" alt="image1" />
                 </div>
+                
             </aside>
 
             <div className="grid  place-items-center sm:mt-20">
