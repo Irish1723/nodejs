@@ -5,4 +5,4 @@ export default function Github() {
         <div className="p-4">
         </div>
     )
-}
+};
